@@ -1,0 +1,7 @@
+*.txt
+*.png
+BakkesModSDK-master
+.vs
+Debug
+/Release/*
+!/Release/InstantReQ.dll
